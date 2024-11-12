@@ -18,8 +18,3 @@ Tämä projekti on yksinkertainen verkkosivusto, joka hyödyntää Bootstrap-kir
 - HTML
 - CSS (Bootstrap)
 
-## Asennus
-
-1. Kloonaa repositorio:
-   ```bash
-   git clone https://github.com/joqquli/bootstrap.git
